@@ -1,0 +1,13 @@
+Package: securden-cli
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Securden support@securden.com
+Filename: pool/main/securden-cli.deb
+Size: 4795340
+MD5sum: b6fd5240995d829c12b16de937a4a717
+SHA1: ea112fc6195a4a3fb4ee1208fe1716b6b51f5e64
+SHA256: e20c1857ab8ae9700e6ca82b7166c25ae0b790bd5340b81ba596dc6c06506fad
+Section: utils
+Priority: optional
+Description: The official CLI tool for Securden.
+
