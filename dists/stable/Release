@@ -1,0 +1,14 @@
+Origin: my-cli-apt
+Label: my-cli-apt
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: APT repository for securden-cli
+Date: Sun, 06 Apr 2025 12:41:25 +0000
+MD5Sum:
+  daea3efee429925adf8daf8a0a8c258e 541 main/binary-amd64/Packages
+  cfff41e43a64d079106e81473a2ca650 403 main/binary-amd64/Packages.gz
+SHA256:
+  608c156470781f56f3a606375593d1961105f8e7a2f75da9a524fe91d990415b 541 main/binary-amd64/Packages
+  29a43f3d059333bd167aca7896cf07c44af4d2e51562201b504a87d74e88f007 403 main/binary-amd64/Packages.gz

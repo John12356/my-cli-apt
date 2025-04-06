@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: my-cli-apt
+Label: my-cli-apt
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: APT repository for securden-cli
+Date: Sun, 06 Apr 2025 12:41:25 +0000
+MD5Sum:
+  daea3efee429925adf8daf8a0a8c258e 541 main/binary-amd64/Packages
+  cfff41e43a64d079106e81473a2ca650 403 main/binary-amd64/Packages.gz
+SHA256:
+  608c156470781f56f3a606375593d1961105f8e7a2f75da9a524fe91d990415b 541 main/binary-amd64/Packages
+  29a43f3d059333bd167aca7896cf07c44af4d2e51562201b504a87d74e88f007 403 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEeS++XXKy7lmzA/5s75rR/ClTFyEFAmfyd/AACgkQ75rR/ClT
+FyGkMQ//QSegN2aQB0K3CxhId0LVK475RFjt21H2tdY7SvNRgxLk+4HX/+EmZzRm
+JUm5kINaKnzUZatolU7j5TltyBpZDHpQCZjuTVJA3vA0CKldAKGIqDQ9nifgkZDc
+KOcGnFvefE7crvqChxjqwvGjzruIxDE5axnDyJhhXw+Q/lB2A4l+uXbpyGWn+BSK
+1Po6dTVugM/pEeW2QscfY74RvT9VXE4Mp7nO48ReLJYtKztGDdqt7FPWXHKHR3kr
+NeQiI3GIHk5wZDWIy6/f1mkVBcLcMox4IL0/7aasCiRBwyvs4+OmidLxC4zkbWYG
+NesQgll6q+pxuyIvwQ5cMuUoPTNcLXnKDl0QWVPW5Kz527cf/1Dnml8t8luW0krf
+S4+w6m4glzSogqqbM5weF2RJet68+In3Qt/6n1AABmiNevdJv2O2NtZ+ndpBlk/k
+9x9VV3qBk+P6Z+LXfmqadT9UixHs8yJH/1LIQ/TNXwR1OtGvpEVXwQTpIKRk4MZG
+B9uLUulF7dlsaN0Db5n0D9H0AyQK+j4BXfPXGcpnsqulfMU+tIlZlSx/xRWb8LJs
+CiUdAatQwaMMgZaksotwJWL/P0qCjxMeQAnhkML/VVK0OsIxhSs0bKPwuwS3wPYX
+RatLmtlgcXb0XYLbkRYsV9VCBtr69/umbOc+pkl1Kisf6BrJhcw=
+=ChFR
+-----END PGP SIGNATURE-----
