@@ -1,14 +1,14 @@
-Origin: my-cli-apt
-Label: my-ali-apt
+Origin: YourRepo
+Label: YourRepo
 Suite: stable
 Codename: stable
 Architectures: amd64
 Components: main
 Description: APT repository for securden-cli
-Date: Mon, 07 Apr 2025 07:22:07 +0000
+Date: Sun, 20 Apr 2025 16:45:28 +0000
 MD5Sum:
-  02150e55d5cbb9f788840c2f77d9972d 541 main/binary-amd64/Packages
-  ffebe8d89bda6c9fbcf3ab23c844ac39 404 main/binary-amd64/Packages.gz
+  f4ac4ff944f894cb655d923b8c59a5bc 541 main/binary-amd64/Packages
+  b6cd81a51366a7fd24abe048b9b8ce18 400 main/binary-amd64/Packages.gz
 SHA256:
-  579652a9be0201fec2656e352fa564ad65ff383a34047735fcefc3b3a7de2484 541 main/binary-amd64/Packages
-  503bedc9065cc8702aad9328b41582966c5a9a5ba120f1abb4b656af0fc84755 404 main/binary-amd64/Packages.gz
+  a7f31a66d4927cc5a15fb4ab1be9a5b1a5045811b7b2562ae31c99ffa4be2dac 541 main/binary-amd64/Packages
+  2790277baa6b5dd9f2a4683277ce238fbf5155725ffa3b9ac1cbc1be00506e59 400 main/binary-amd64/Packages.gz
