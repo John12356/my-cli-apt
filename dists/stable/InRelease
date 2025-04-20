@@ -8,26 +8,26 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: APT repository for securden-cli
-Date: Sun, 20 Apr 2025 16:45:28 +0000
+Date: Sun, 20 Apr 2025 16:54:13 +0000
 MD5Sum:
-  f4ac4ff944f894cb655d923b8c59a5bc 541 main/binary-amd64/Packages
-  b6cd81a51366a7fd24abe048b9b8ce18 400 main/binary-amd64/Packages.gz
+  2128e6499612e668b0011c08f402c915 541 main/binary-amd64/Packages
+  6dbc4c25143ec447f1928fbbd02fe323 399 main/binary-amd64/Packages.gz
 SHA256:
-  a7f31a66d4927cc5a15fb4ab1be9a5b1a5045811b7b2562ae31c99ffa4be2dac 541 main/binary-amd64/Packages
-  2790277baa6b5dd9f2a4683277ce238fbf5155725ffa3b9ac1cbc1be00506e59 400 main/binary-amd64/Packages.gz
+  a2a025791ef6bcde7d9c1c228100ed382ba3942d3bd0a439da970823beec66d7 541 main/binary-amd64/Packages
+  26187fee8d731627cdca6fbe70b59fa1d49471dd5205bac678919b27331bcbc4 399 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEEKxiJ9GILKemsoHzurFktYAOJ9kFAmgFJLoACgkQurFktYAO
-J9muCg/+K4KXuLQCjMaoMCR4VqVajLeCyLfDYNKCcduDJ1qhhKKWLyTHPo/pQzjq
-c1UOPTXYPuBpY6o2V/jWppIb+tHCCYU6hIEKelN0KSgXvprVnG3nv7k5Csj885Mx
-e3UYyzyAdjjX8vYsFq7kuTwD07axreP13bBlDSlw4ONq2XD+jnFi/HeYRwa9QkWG
-B7bHqGR3yj2QieUaol6AV6p74Z/230ytgzyaVIGwtDMIa4trrWFQ/imDP4GsP90Q
-GBqJX3Y76oP2wF9NyFLJ/EddMGz6MceDVGGJ8aQqcy3JbwUC/KU/4LUNkK2BqqiP
-kdQGngZXTjdpj1cWkwj0OC8flkodayirSDHbVzvUwVMAk26ggqBPYqsvzmR7VrV1
-8zJ3xJHySNk0S1D1BpC7QW2Nb+JkQRcGz+KEgCM79pae/NSe9XfCPu0RAFRaY6lU
-SkMgIWwUyX6tR2HWysFSOCq7uksZZuiv2ntRrWwk+faNuq0RLLGvmRJV4wBBOBle
-h+PTASJj6oH9V97/Hc9FgHv9BVQVM1OIEB8X92ywqtklLmAp+/iHOC+ZJGHNbVb+
-X/95oQRPrb94iPosFjCnJHgNyienVFBIWXy33gXeDb3Wdfw1T5Z/IVd2ueDHKiLG
-Dkz5aDJ+06Ibi72PilsJB/BDZ8ZuWlN8VIFQBbDiG1ua2J9oIqI=
-=gt3D
+iQIzBAEBCgAdFiEEEKxiJ9GILKemsoHzurFktYAOJ9kFAmgFJskACgkQurFktYAO
+J9lVcw/9HlWi6Nlf46yNM1EynJnd919Vq6hOctTg3W4/hQN3QPurIKKiGdX2+Wk8
+xRBEX4hBjWW9TIp7aRikeQHXubgAtko7wWxyqsQ3QvGEz8Z3pdsVbU/9k37m28DA
+buu2xtrkEzIlhYcjZVCtFoygh+0r75hRWeD6Jx6xZ24hgohHIiX8RyVveIIX4GUy
+rLDKUyarnjOhaULjMNL5PloAja4Qa+0xsy488Dw/XF33ozXw5NzDXhST5fyhvzN6
+eGM9KXjEzbSUymLO7wvoyapFP/ESeDfCRsMUN9yiRiuRJn441r7D9onzgCG+QRVF
+L83/mR/7oHhZgH1EqC24WishSIi1e603AJo0MfK2NistPxFwURDoBtKlg4jy+ANl
+gEENLsFqAQShQOB1ole2YuTCqP1JS6Y+ZxqfaLnaF8NWK3Wu2jiH+DtQuhV08v+3
+s5wDJagWQyECk3757zBPCQNtHXXv0fewjOneMTWmtBVs9wxwyB4t5jmmtF2aSXjt
+VB7Q/Vml10IVT0YP3miObkTtg3N1JtWuL1vb474uWRuXAdq1QWNK5bSfuKIaN97g
+1munCokadMiBBgYXzKPBX1QwDiCwYkB6lxdVZyItyfQMsLcyr9awhubE4+HZ/oj7
+77FF+dve+0IeiK/GWyqX/K2xzJmW4sgGIHp+ienuT7+ckr+zMcE=
+=aIIV
 -----END PGP SIGNATURE-----

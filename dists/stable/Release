@@ -5,10 +5,10 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: APT repository for securden-cli
-Date: Sun, 20 Apr 2025 16:45:28 +0000
+Date: Sun, 20 Apr 2025 16:54:13 +0000
 MD5Sum:
-  f4ac4ff944f894cb655d923b8c59a5bc 541 main/binary-amd64/Packages
-  b6cd81a51366a7fd24abe048b9b8ce18 400 main/binary-amd64/Packages.gz
+  2128e6499612e668b0011c08f402c915 541 main/binary-amd64/Packages
+  6dbc4c25143ec447f1928fbbd02fe323 399 main/binary-amd64/Packages.gz
 SHA256:
-  a7f31a66d4927cc5a15fb4ab1be9a5b1a5045811b7b2562ae31c99ffa4be2dac 541 main/binary-amd64/Packages
-  2790277baa6b5dd9f2a4683277ce238fbf5155725ffa3b9ac1cbc1be00506e59 400 main/binary-amd64/Packages.gz
+  a2a025791ef6bcde7d9c1c228100ed382ba3942d3bd0a439da970823beec66d7 541 main/binary-amd64/Packages
+  26187fee8d731627cdca6fbe70b59fa1d49471dd5205bac678919b27331bcbc4 399 main/binary-amd64/Packages.gz
